@@ -1,0 +1,2 @@
+# desktop
+apllkasi kasir desktop
